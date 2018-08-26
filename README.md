@@ -1,4 +1,4 @@
-# BeaconclientApp
+# Beacon Application
 
 Introduction: Beacons are devices which can be used to deliver user specific customized advertisements. The advantages of using beacons
 are that they are low powered BLE device which can last from a few weeks to upto several months on a single coin cell battery.
@@ -22,7 +22,8 @@ These devices help in efficiently help the beacon tags to connect to the interne
   exibition.
   
   <img src="snaps/working.jpg">
-  <img src="snaps/">
+  <img src="snaps/clientworking.jpg">
+  <img src="snaps/adminworking.jpg">
   
   
   
