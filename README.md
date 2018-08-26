@@ -18,8 +18,7 @@ These devices help in efficiently help the beacon tags to connect to the interne
 </ul>
 
 <h4>Project aim:</h4>
-  This project as a proof of concept for using beacon id cards and blufis as a part of User experince enhancing tools for a college project 
-  exibition.
+  This project is developed as a proof of concept for using beacon id cards and blufis as a part of User experince enhancing tools for a college project exibition.
   
   <img src="snaps/working.jpg">
   <img src="snaps/clientworking.jpg">
